@@ -11,7 +11,7 @@
   "PASSWORD": "your_password",
   "OTPKEY": "",
   "BOTNAME": "সাকিবুল এর ফোকাস বট",
-  "PREFIX": "*",
+  "PREFIX": "!",
 
   "reactUnsend": ["😡"],
 
